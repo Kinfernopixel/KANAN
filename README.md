@@ -1,5 +1,8 @@
 <div align="center">
   <h1>Hello world 👋, I'm Kanan Shah</h1>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Kinfernopixel/KANAN/main/animated_coder.gif" width="600" alt="Coder GIF" />
+</p>
   <p>A passionate Software Engineer building impactful and intelligent tech solutions.</p>
 </div>
 
@@ -51,7 +54,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinfernopixel&show_icons=true&theme=github_dark" alt="stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Kinfernopixel&show_icons=true&theme=github_dark" alt="stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinfernopixel&layout=compact&theme=github_dark" alt="langs" />
 </p>
 
