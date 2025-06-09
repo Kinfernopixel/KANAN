@@ -26,8 +26,8 @@
 - **[TheRealZombo](https://github.com/Kinfernopixel/TheRealZombo)**  
   *Multiplayer zombie survival Java game with NPC AI and FSM logic.*
 
-- **SecureID.AI** *(coming soon)*  
-  *AI identity verification using OCR, liveness detection, and fraud detection pipelines.*
+- **LearnBuddy.AI** *(coming soon)*  
+  *AI learning app.*
 
 ---
 
