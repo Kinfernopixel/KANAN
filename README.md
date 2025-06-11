@@ -26,9 +26,12 @@
 - **[TheRealZombo](https://github.com/Kinfernopixel/TheRealZombo)**  
   *Multiplayer zombie survival Java game with NPC AI and FSM logic.*
 
-- **LearnBuddy.AI** *(coming soon)*  
-  *AI learning app.*
+- **[LearningTutor.ai](https://github.com/Kinfernopixel/LearningTutor.ai)**  
+  *A full-stack AI tutor that generates personalized learning paths and content for students using LLMs and Google Gemini API. (Coming soon)*
 
+- **[Car Insurance Premium Predictor](https://github.com/Kinfernopixel/car-insurance-predictor)**  
+  *A Streamlit web app that predicts car insurance premiums for new drivers using machine learning and real-world data.*
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
